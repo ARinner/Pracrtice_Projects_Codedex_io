@@ -20,7 +20,7 @@ choices = {1: 'Rock', 2: 'Paper', 3: 'Scissors'}
 print(f'You chose {choices[player]}')
 print(f'Computer chose {choices[computer]}')
 
-# Find out einner
+# Find out winner
 
 if player == computer:
     print('Draw!')
